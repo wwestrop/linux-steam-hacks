@@ -17,6 +17,8 @@ I have bound `Guide`+`X` and can press this remotely to restart Steam. Getting u
 
 UPlay or whatever they're calling it now is a poorly implemented piece of junk that nobody asked for. After finishing a game it doesn't even close itself down properly and doesn't respond properly to a controller over Remote Play either. This script closes it after your game closes.
 
+**How to install it:** Set this script to run at startup
+
 _NOTE:_ don't use this if you actually rely on any UPlay features like cloud syncing.
 
 _NOTE:_ currently it's hardcoded to Assasin's Creed Odyssey - figure out a neater way or change the script as appropriate to whatever you're playing right now.
