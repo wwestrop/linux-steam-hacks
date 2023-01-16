@@ -6,7 +6,7 @@ When casting to a TV in another room via Steam Remote Play, unfortunately there 
 
 Rebooting Steam fixes it, but that requires getting off the sofa and doing it from the host, this allows you to do it remotely.
 
-**How to install it:* Bind a keyboard shortcut that you're not going to use for anything else (e.g. `ctrl`+`shift`+`win`+`/`) to this script in your desktop environment (easy to do in KDE). Then, in the Steam "Steam Button Chord Configuration" screen, configure a shortcut on the controller to invoke this keyboard shortcut, see example:
+**How to install it:** Bind a keyboard shortcut that you're not going to use for anything else (e.g. `ctrl`+`shift`+`win`+`/`) to this script in your desktop environment (easy to do in KDE). Then, in the Steam "Steam Button Chord Configuration" screen, configure a shortcut on the controller to invoke this keyboard shortcut, see example:
 
 ![Example controller configuration](doc/controller_binding.png)
 
